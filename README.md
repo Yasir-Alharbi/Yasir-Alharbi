@@ -2,24 +2,27 @@
 
 SOC Analyst | AI Master's Student | Cybersecurity and AI enthusiast
 
-I am building my GitHub as a practical portfolio for cybersecurity, digital forensics and incident response, AI security, and exam-focused study resources. My goal is to publish work that is useful, organized, and safe to share publicly.
+I am a cybersecurity professional with a strong interest in Security Operations, Digital Forensics and Incident Response, and the practical use of Artificial Intelligence in security. I enjoy learning deeply, organizing knowledge into useful resources, and turning complex technical topics into clear, practical work.
 
-## Current Focus
+## Professional Focus
 
-- Security Operations and alert triage
-- Digital Forensics and Incident Response foundations
-- AI, machine learning, and responsible AI
-- Practical study resources for certification preparation
+- Developing daily in cybersecurity through hands-on Security Operations experience and continuous learning.
+- Growing deeper in Digital Forensics and Incident Response, especially investigation thinking, evidence handling, and incident workflows.
+- Continuing my master's degree in Artificial Intelligence and preparing to graduate soon.
+- Connecting AI knowledge with cybersecurity practice, including model evaluation, responsible AI, and security-focused use cases.
 
-## Featured Study Resource
+## Featured Work
 
-I am preparing an interactive practice resource for the NVIDIA-Certified Associate Generative AI LLMs exam.
+- NVIDIA-Certified Associate Generative AI LLMs interactive practice exam
+- NCA-GENL study cheat sheets in dark and light reading themes
+- Cybersecurity, DFIR, and AI learning resources
 
-The 123-question practice set is credited to CertPro Deep Dive, with thanks for the playlist and explanation effort. My contribution is converting the material into an interactive practice format and preparing my own study cheat sheets.
+## What I Care About
 
-## Portfolio Status
-
-I am organizing my GitHub repositories carefully before making more projects public. I prefer to publish work only when the README, notes, screenshots, and data are clean, useful, and safe to share.
+- Clear technical writing
+- Practical security analysis
+- Responsible and useful AI
+- Sharing study resources that help others learn faster
 
 ## Links
 
