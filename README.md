@@ -6,7 +6,7 @@ I am a cybersecurity professional with a strong interest in SOC, DFIR, and the p
 
 ## Professional Focus
 
-- Developing daily in cybersecurity through hands-on Security Operations experience and continuous learning.
+- Developing daily in cybersecurity through hands-on SOC experience and continuous learning.
 - Growing deeper in Digital Forensics and Incident Response, especially investigation thinking, evidence handling, and incident workflows.
 - Continuing my master's degree in Artificial Intelligence and preparing to graduate soon.
 - Connecting AI knowledge with cybersecurity practice, including model evaluation, responsible AI, and security-focused use cases.
