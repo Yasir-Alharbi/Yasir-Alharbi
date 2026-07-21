@@ -2,7 +2,7 @@
 
 SOC Analyst | AI Master's Student | Cybersecurity and AI enthusiast
 
-I am a cybersecurity professional with a strong interest in Security Operations, Digital Forensics and Incident Response, and the practical use of Artificial Intelligence in security. I enjoy learning deeply, organizing knowledge into useful resources, and turning complex technical topics into clear, practical work.
+I am a cybersecurity professional with a strong interest in SOC, DFIR, and the practical use of Artificial Intelligence in security. I enjoy learning deeply, organizing knowledge into useful resources, and turning complex technical topics into clear, practical work.
 
 ## Professional Focus
 
